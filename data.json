@@ -1,0 +1,179 @@
+{
+    "books": [
+        {
+            "Genre": "Skønlitteratur",
+            "name": "Voksnes Løgnagtige Liv",
+            "Forfatter": "Elena Ferrante",
+            "Price": "239,95 kr",
+            "description": "Lorem ipsum dolor sit amet"
+        },
+        {
+            "Genre": "Skønlitteratur",
+            "name": "Mit Arbejde",
+            "Forfatter": "Olga Ravn",
+            "Price": "209,95 kr",
+            "description": "Lorem ipsum dolor sit amet"
+        },
+        {
+            "Genre": "Skønlitteratur",
+            "name": "Skyggedanseren - ",
+            "Forfatter": "Sara Omar",
+            "Price": "149,95 kr",
+            "description": "Lorem ipsum dolor sit amet"
+        },
+        {
+            "Genre": "Skønlitteratur",
+            "name": "Pas På Hvad Du Ønsker Dig",
+            "Forfatter": "Jeffrey Archer",
+            "Price": "149,95 kr",
+            "description": "Lorem ipsum dolor sit amet"
+        },
+        {
+            "Genre": "Skønlitteratur",
+            "name": "Indtil Vanvid, Indtil Døden",
+            "Forfatter": "Kirsten Thorup",
+            "Price": "219,95 kr",
+            "description": "Lorem ipsum dolor sit amet"
+        },
+        {
+            "Genre": "Skønlitteratur",
+            "name": "Bonsai",
+            "Forfatter": "Kirsten Thorup",
+            "Price": "159,95 kr",
+            "description": "Lorem ipsum dolor sit amet"
+        },
+        {
+            "Genre": "Samfund Og Historie",
+            "name": "Fyns Natur",
+            "Forfatter": "Erik Vinther",
+            "Price": "299,95 kr",
+            "description": "Lorem ipsum dolor sit amet"
+        },
+        {
+            "Genre": "Samfund Og Historie",
+            "name": "Islams Forfaldne Hus",
+            "Forfatter": "Ruud Koopmans",
+            "Price": "229,95 kr",
+            "description": "Lorem ipsum dolor sit amet"
+        },
+        {
+            "Genre": "Samfund Og Historie",
+            "name": "Uropatruljen - Politiets Hårde Halse - ",
+            "Forfatter": "Frederik Strand",
+            "Price": "219,95 kr",
+            "description": "Lorem ipsum dolor sit amet"
+        },
+        {
+            "Genre": "Samfund Og Historie",
+            "name": "Uopklaret",
+            "Forfatter": "Frederik Strand",
+            "Price": "279,95 kr",
+            "description": "Lorem ipsum dolor sit amet"
+        },
+        {
+            "Genre": "Samfund Og Historie",
+            "name": "Efterforskningens Anatomi - ",
+            "Forfatter": "Frederik Strand",
+            "Price": "439,95 kr",
+            "description": "Lorem ipsum dolor sit amet"
+        },
+        {
+            "Genre": "Samfund Og Historie",
+            "name": "Jagten På Morderne Stopper Aldrig - Genåbnede Danske Kriminalsager",
+            "Forfatter": "Frederik Strand",
+            "Price": "229,95 kr",
+            "description": "Lorem ipsum dolor sit amet"
+        },
+        {
+            "Genre": "Kunst Og Kultur",
+            "name": "Kunstarternes Forbrødning",
+            "Forfatter": "Mirjam Gelfer-Jørgensen ",
+            "Price": " 349,95 DKK",
+            "description": "Lorem ipsum dolor sit amet"
+        },
+        {
+            "Genre": "Kunst Og Kultur",
+            "name": "Grov Konfækt - ",
+            "Forfatter": "Frederik Stjernfelt ",
+            "Price": " 369,95 DKK",
+            "description": "Lorem ipsum dolor sit amet"
+        },
+        {
+            "Genre": "Kunst Og Kultur",
+            "name": "Argumenter Imod Kvinder",
+            "Forfatter": "Birgitte Possing",
+            "Price": " 149,95 DKK",
+            "description": "Lorem ipsum dolor sit amet"
+        },
+        {
+            "Genre": "Kunst Og Kultur",
+            "name": "Det Glasklare Hjerte",
+            "Forfatter": "Henrik Wivel ",
+            "Price": " 299,95 DKK",
+            "description": "Lorem ipsum dolor sit amet"
+        },
+        {
+            "Genre": "Kunst Og Kultur",
+            "name": "Julekalender Til Voksne",
+            "Forfatter": "Sigurd Barrett",
+            "Price": " 109,95 DKK",
+            "description": "Lorem ipsum dolor sit amet"
+        },
+        {
+            "Genre": "Kunst Og Kultur",
+            "name": "Tilbage Til 30'erne",
+            "Forfatter": "Ove Dahl",
+            "Price": " 239,95 DKK",
+            "description": "Lorem ipsum dolor sit amet"
+        },
+        {
+            "Genre": "it",
+            "name": "Bliv Sikker På Nettet",
+            "Forfatter": "Lars Laursen",
+            "Price": "259,95 kr",
+            "description": "Lorem ipsum dolor sit amet"
+        },
+        {
+            "Genre": "it",
+            "name": "Bogen Om Nemid",
+            "Forfatter": "Lars Laursen",
+            "Price": "259,95 kr",
+            "description": "Lorem ipsum dolor sit amet"
+        },
+        {
+            "Genre": "it",
+            "name": "Bogen Om C# 8.0 -",
+            "Forfatter": "Michell Cronberg",
+            "Price": "229,95 kr",
+            "description": "Lorem ipsum dolor sit amet"
+        },
+        {
+            "Genre": "it",
+            "name": "Bogen Om Asp.Net 4.0 Web Forms",
+            "Forfatter": "Michell Cronberg",
+            "Price": "269,95 kr",
+            "description": "Lorem ipsum dolor sit amet"
+        },
+        {
+            "Genre": "it",
+            "name": "Godt I Gang Med Windows 10 - 2019",
+            "Forfatter": "Jens Koldbæk",
+            "Price": "109,95 kr",
+            "description": "Lorem ipsum dolor sit amet"
+        },
+        {
+            "Genre": "it",
+            "name": "Webdesign - Illustreret Håndbog",
+            "Forfatter": "Jørgen Farum Jensen",
+            "Price": "329,95 kr",
+            "description": "Lorem ipsum dolor sit amet"
+        },
+        {
+            "Genre": "it",
+            "name": "Hjemmesiden I Html Og Css",
+            "Forfatter": "Emil M Frandsen",
+            "Price": "289,95 kr",
+            "description": "Lorem ipsum dolor sit amet"
+        }
+    ]
+}
