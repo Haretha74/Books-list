@@ -1,10 +1,187 @@
 * {
     margin: 0;
-    padding: 0;
-    box-sizing: border-box;
     font-family: cursive;
+    text-transform: capitalize;
+    
 }
 body {
     background-image: url("./images/background.jpg");
-    background-size: cover;
+    background-size: contain;
+}
+
+.nav__ul {
+    width: 95vw;
+    list-style-type: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.nav__logoImage {
+    margin-right: 70vw;
+    margin-left: -1.5vw;
+}
+.nav__ul--list {
+    text-decoration: none;
+    font-size: 1.2em;
+}
+.nav__ul--list a {
+    color: rgb(224, 127, 83);
+    
+}
+.main {
+    margin: 4vh 2vw;
+    display: grid;
+    grid-template-areas: "search bookImg containerText containerPrice"
+                          "aside bookImg containerText containerPrice"
+                          "aside bookImg containerText containerPrice";
+    grid-column-gap: 1vw;
+}
+.main__aside {
+    width: 100%;
+    
+}
+.aside__searchInput {
+    grid-area: search;
+    margin-bottom: 5vh;
+    width: 75%;
+    height: 4vh;
+    border-radius: 5px;
+    border-style: none;
+    color: rgb(210, 66, 30);
+    font-size: 18px;
+}
+.aside__form {
+    grid-area: aside;
+    width: 100%;
+    /* margin: 5vh auto; */
+    text-align: center;
+}
+.aside__form legend {
+    margin-bottom: 2em;
+    text-align: left;
+}
+.aside__form select {
+    margin-bottom: 2rem;
+}
+.aside__form button {
+    width: 10vw;
+    padding: .5em 1em;
+    background-color: rgb(197, 172, 125);
+    border-style: none;
+    border-radius: 5px;
+    font-size: 18px;    
+}
+.aside__form button:hover {
+    cursor: pointer;
+    background-color: rgb(175, 177, 128);
+    color: white;
+}
+/*./aside*/
+
+
+.main__maincontainer {
+    width: 75vw;
+}
+.maincontainer__book {
+    margin-bottom: 3vh;
+    display: flex;
+}
+
+.bookDiscription {
+    width: 50%;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+}
+
+.maincontainer__bookImg {
+    grid-area: bookImg;
+    width: 7vw;
+}
+.maincontainer__text {
+    margin: 0 auto;
+    width: 50vw;
+    grid-area: containerText;
+}
+.maincontainer__text h3 {
+    color: rgb(85,163,87);
+}
+.maincontainer__price {
+    width: 10vw;
+    margin: 2vh auto;
+    grid-area: containerPrice;
+    text-align: center;
+}
+.price {
+    /* margin-bottom: 3vh; */
+    color: rgb(85,163,87);
+    font-size: 18px;
+    font-weight: bold;
+}
+.moveToBasket {
+    margin-top: 3vh;
+    background-color: rgb(228, 205, 163);
+    padding: .5vh 1vw;
+    border-style: none;
+    font-weight: bold;
+    border-radius: 5px;
+    color: rgb(224, 127, 83);;
+    font-size: 18px;
+    
+}
+.moveToBasket:hover {
+    cursor: pointer;
+}
+/*./main*/
+.footer_frontpage_SoMe i {
+    border: 1px white solid;
+    border-radius: 50px;
+    color: white;
+    font-size: 0.7rem;
+    margin-right: 0.1rem;
+    padding: 4px;
+}
+
+.footer_frontpage {
+    display: grid;
+    grid-template-columns: 3fr auto 6fr 3fr 1.7fr;
+    grid-template-rows: 1fr;
+    grid-gap: 2px;
+    background-color: #A39161;
+    padding: 1vh .5vw;
+    /* margin-bottom: 0; */
+}
+.footer_frontpage_payment i {
+    color: white;
+    font-size: 1.1rem;
+    margin-right: 1vh;
+    
+}
+.footer_frontpage_address {
+    grid-area: 1 / 1 / 2 / 2;
+    font-family: 'Museo Sans Rounded 300';
+    font-style: normal; /*default er italic på adress tag*/
+    font-size: 0.6rem;
+    font-weight: 700;
+}
+.footer_frontpage_refunds_privacy {
+    grid-area: 1 / 2 / 2 / 3;
+    display: grid;
+    grid-template-rows: 1fr;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 2px;
+    font-size: 0.7rem;
+    color: white;
+    font-family: 'Museo Sans Rounded 300';
+
+}
+.footer_frontpage_refunds_privacy a{
+    color: white;
+}
+
+.footer_frontpage_payment {
+    grid-area: 1 / 4 / 2 / 5;
+}
+.footer_frontpage_SoMe {
+    grid-area: 1 / 5 / 2 / 6; 
 }

@@ -3,177 +3,202 @@
         {
             "Genre": "Skønlitteratur",
             "name": "Voksnes Løgnagtige Liv",
-            "Forfatter": "Elena Ferrante",
+            "Auther": "Elena Ferrante",
             "Price": "239,95 kr",
-            "description": "Lorem ipsum dolor sit amet"
+            "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Minima natus ut culpa voluptate, unde sunt, provident iure sed ipsa, vel officia dolorum porro, ducimus praesentium voluptatibus dolores quia minus obcaecati! Molestiae quisquam magni possimus vitae harum nam corrupti odio unde rerum eaque dignissimos, nesciunt architecto expedita ullam quis delectus id!",
+            "image": "./images/voksnes-svigefulde-liv_474028.jpg"
         },
         {
             "Genre": "Skønlitteratur",
             "name": "Mit Arbejde",
-            "Forfatter": "Olga Ravn",
+            "Auther": "Olga Ravn",
             "Price": "209,95 kr",
-            "description": "Lorem ipsum dolor sit amet"
+            "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Minima natus ut culpa voluptate, unde sunt, provident iure sed ipsa, vel officia dolorum porro, ducimus praesentium voluptatibus dolores quia minus obcaecati! Molestiae quisquam magni possimus vitae harum nam corrupti odio unde rerum eaque dignissimos, nesciunt architecto expedita ullam quis delectus id!",
+            "image": "./images/mit-arbejde_489004.jpg"
         },
         {
             "Genre": "Skønlitteratur",
-            "name": "Skyggedanseren - ",
-            "Forfatter": "Sara Omar",
+            "name": "Skyggedanseren",
+            "Auther": "Sara Omar",
             "Price": "149,95 kr",
-            "description": "Lorem ipsum dolor sit amet"
+            "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Minima natus ut culpa voluptate, unde sunt, provident iure sed ipsa, vel officia dolorum porro, ducimus praesentium voluptatibus dolores quia minus obcaecati! Molestiae quisquam magni possimus vitae harum nam corrupti odio unde rerum eaque dignissimos, nesciunt architecto expedita ullam quis delectus id!",
+            "image": "./images/skyggedanseren_466565.jpg"
         },
         {
             "Genre": "Skønlitteratur",
             "name": "Pas På Hvad Du Ønsker Dig",
-            "Forfatter": "Jeffrey Archer",
+            "Auther": "Jeffrey Archer",
             "Price": "149,95 kr",
-            "description": "Lorem ipsum dolor sit amet"
+            "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Minima natus ut culpa voluptate, unde sunt, provident iure sed ipsa, vel officia dolorum porro, ducimus praesentium voluptatibus dolores quia minus obcaecati! Molestiae quisquam magni possimus vitae harum nam corrupti odio unde rerum eaque dignissimos, nesciunt architecto expedita ullam quis delectus id!",
+            "image": "./images/pas-paa-hvad-du-oensker-dig_420784.jpg"
         },
         {
             "Genre": "Skønlitteratur",
             "name": "Indtil Vanvid, Indtil Døden",
-            "Forfatter": "Kirsten Thorup",
+            "Auther": "Kirsten Thorup",
             "Price": "219,95 kr",
-            "description": "Lorem ipsum dolor sit amet"
+            "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Minima natus ut culpa voluptate, unde sunt, provident iure sed ipsa, vel officia dolorum porro, ducimus praesentium voluptatibus dolores quia minus obcaecati! Molestiae quisquam magni possimus vitae harum nam corrupti odio unde rerum eaque dignissimos, nesciunt architecto expedita ullam quis delectus id!",
+            "image" :"./images/indtil-vanvid-indtil-doeden_472102.jpg"
         },
         {
             "Genre": "Skønlitteratur",
             "name": "Bonsai",
-            "Forfatter": "Kirsten Thorup",
+            "Auther": "Kirsten Thorup",
             "Price": "159,95 kr",
-            "description": "Lorem ipsum dolor sit amet"
+            "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Minima natus ut culpa voluptate, unde sunt, provident iure sed ipsa, vel officia dolorum porro, ducimus praesentium voluptatibus dolores quia minus obcaecati! Molestiae quisquam magni possimus vitae harum nam corrupti odio unde rerum eaque dignissimos, nesciunt architecto expedita ullam quis delectus id!",
+            "image" :"./images/bonsai_162200.jpg"
         },
         {
             "Genre": "Samfund Og Historie",
             "name": "Fyns Natur",
-            "Forfatter": "Erik Vinther",
+            "Auther": "Erik Vinther",
             "Price": "299,95 kr",
-            "description": "Lorem ipsum dolor sit amet"
+            "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Minima natus ut culpa voluptate, unde sunt, provident iure sed ipsa, vel officia dolorum porro, ducimus praesentium voluptatibus dolores quia minus obcaecati! Molestiae quisquam magni possimus vitae harum nam corrupti odio unde rerum eaque dignissimos, nesciunt architecto expedita ullam quis delectus id!",
+            "image" :"./images/fyns-natur-danmarks-groenne-hjerte_488659.jpg"
         },
         {
             "Genre": "Samfund Og Historie",
             "name": "Islams Forfaldne Hus",
-            "Forfatter": "Ruud Koopmans",
+            "Auther": "Ruud Koopmans",
             "Price": "229,95 kr",
-            "description": "Lorem ipsum dolor sit amet"
+            "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Minima natus ut culpa voluptate, unde sunt, provident iure sed ipsa, vel officia dolorum porro, ducimus praesentium voluptatibus dolores quia minus obcaecati! Molestiae quisquam magni possimus vitae harum nam corrupti odio unde rerum eaque dignissimos, nesciunt architecto expedita ullam quis delectus id!",
+            "image" :"./images/islams-forfaldne-hus_504148.jpg"
         },
         {
             "Genre": "Samfund Og Historie",
-            "name": "Uropatruljen - Politiets Hårde Halse - ",
-            "Forfatter": "Frederik Strand",
+            "name": "Uropatruljen - Politiets Hårde Halse",
+            "Auther": "Frederik Strand",
             "Price": "219,95 kr",
-            "description": "Lorem ipsum dolor sit amet"
+            "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Minima natus ut culpa voluptate, unde sunt, provident iure sed ipsa, vel officia dolorum porro, ducimus praesentium voluptatibus dolores quia minus obcaecati! Molestiae quisquam magni possimus vitae harum nam corrupti odio unde rerum eaque dignissimos, nesciunt architecto expedita ullam quis delectus id!",
+            "image" :"./images/uropatruljen-politiets-haarde-halse_498160.jpg"
         },
         {
             "Genre": "Samfund Og Historie",
             "name": "Uopklaret",
-            "Forfatter": "Frederik Strand",
+            "Auther": "Frederik Strand",
             "Price": "279,95 kr",
-            "description": "Lorem ipsum dolor sit amet"
+            "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Minima natus ut culpa voluptate, unde sunt, provident iure sed ipsa, vel officia dolorum porro, ducimus praesentium voluptatibus dolores quia minus obcaecati! Molestiae quisquam magni possimus vitae harum nam corrupti odio unde rerum eaque dignissimos, nesciunt architecto expedita ullam quis delectus id!",
+            "image" :"./images/uopklaret_346815.jpg"
         },
         {
             "Genre": "Samfund Og Historie",
             "name": "Efterforskningens Anatomi - ",
-            "Forfatter": "Frederik Strand",
+            "Auther": "Frederik Strand",
             "Price": "439,95 kr",
-            "description": "Lorem ipsum dolor sit amet"
+            "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Minima natus ut culpa voluptate, unde sunt, provident iure sed ipsa, vel officia dolorum porro, ducimus praesentium voluptatibus dolores quia minus obcaecati! Molestiae quisquam magni possimus vitae harum nam corrupti odio unde rerum eaque dignissimos, nesciunt architecto expedita ullam quis delectus id!",
+            "image" :"./images/efterforskningens-anatomi_141661.jpg"
         },
         {
             "Genre": "Samfund Og Historie",
             "name": "Jagten På Morderne Stopper Aldrig - Genåbnede Danske Kriminalsager",
-            "Forfatter": "Frederik Strand",
+            "Auther": "Frederik Strand",
             "Price": "229,95 kr",
-            "description": "Lorem ipsum dolor sit amet"
+            "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Minima natus ut culpa voluptate, unde sunt, provident iure sed ipsa, vel officia dolorum porro, ducimus praesentium voluptatibus dolores quia minus obcaecati! Molestiae quisquam magni possimus vitae harum nam corrupti odio unde rerum eaque dignissimos, nesciunt architecto expedita ullam quis delectus id!",
+            "image": "./images/jagten-paa-morderne-stopper-aldrig-genaabnede-danske-kriminalsager_385083.jpg"
         },
         {
             "Genre": "Kunst Og Kultur",
             "name": "Kunstarternes Forbrødning",
-            "Forfatter": "Mirjam Gelfer-Jørgensen ",
+            "Auther": "Mirjam Gelfer-Jørgensen ",
             "Price": " 349,95 DKK",
-            "description": "Lorem ipsum dolor sit amet"
+            "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Minima natus ut culpa voluptate, unde sunt, provident iure sed ipsa, vel officia dolorum porro, ducimus praesentium voluptatibus dolores quia minus obcaecati! Molestiae quisquam magni possimus vitae harum nam corrupti odio unde rerum eaque dignissimos, nesciunt architecto expedita ullam quis delectus id!",
+            "image" :"./images/kunstarternes-forbroedning_478983.jpg"
         },
         {
             "Genre": "Kunst Og Kultur",
-            "name": "Grov Konfækt - ",
-            "Forfatter": "Frederik Stjernfelt ",
+            "name": "Grov Konfækt",
+            "Auther": "Frederik Stjernfelt ",
             "Price": " 369,95 DKK",
-            "description": "Lorem ipsum dolor sit amet"
+            "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Minima natus ut culpa voluptate, unde sunt, provident iure sed ipsa, vel officia dolorum porro, ducimus praesentium voluptatibus dolores quia minus obcaecati! Molestiae quisquam magni possimus vitae harum nam corrupti odio unde rerum eaque dignissimos, nesciunt architecto expedita ullam quis delectus id!",
+            "image" :"./images/grov-konfaekt_497710.jpg"
         },
         {
             "Genre": "Kunst Og Kultur",
             "name": "Argumenter Imod Kvinder",
-            "Forfatter": "Birgitte Possing",
+            "Auther": "Birgitte Possing",
             "Price": " 149,95 DKK",
-            "description": "Lorem ipsum dolor sit amet"
+            "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Minima natus ut culpa voluptate, unde sunt, provident iure sed ipsa, vel officia dolorum porro, ducimus praesentium voluptatibus dolores quia minus obcaecati! Molestiae quisquam magni possimus vitae harum nam corrupti odio unde rerum eaque dignissimos, nesciunt architecto expedita ullam quis delectus id!",
+            "image" :"./images/magtens-argumenter-imod-kvinder-i-150-aar_401958.jpg"
         },
         {
             "Genre": "Kunst Og Kultur",
             "name": "Det Glasklare Hjerte",
-            "Forfatter": "Henrik Wivel ",
+            "Auther": "Henrik Wivel ",
             "Price": " 299,95 DKK",
-            "description": "Lorem ipsum dolor sit amet"
+            "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Minima natus ut culpa voluptate, unde sunt, provident iure sed ipsa, vel officia dolorum porro, ducimus praesentium voluptatibus dolores quia minus obcaecati! Molestiae quisquam magni possimus vitae harum nam corrupti odio unde rerum eaque dignissimos, nesciunt architecto expedita ullam quis delectus id!",
+            "image" :"./images/det-glasklare-hjerte_478980.jpg"
         },
         {
             "Genre": "Kunst Og Kultur",
             "name": "Julekalender Til Voksne",
-            "Forfatter": "Sigurd Barrett",
+            "Auther": "Sigurd Barrett",
             "Price": " 109,95 DKK",
-            "description": "Lorem ipsum dolor sit amet"
+            "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Minima natus ut culpa voluptate, unde sunt, provident iure sed ipsa, vel officia dolorum porro, ducimus praesentium voluptatibus dolores quia minus obcaecati! Molestiae quisquam magni possimus vitae harum nam corrupti odio unde rerum eaque dignissimos, nesciunt architecto expedita ullam quis delectus id!",
+            "image" :"./images/julekalender-til-voksne_500536.jpg"
         },
         {
             "Genre": "Kunst Og Kultur",
             "name": "Tilbage Til 30'erne",
-            "Forfatter": "Ove Dahl",
+            "Auther": "Ove Dahl",
             "Price": " 239,95 DKK",
-            "description": "Lorem ipsum dolor sit amet"
+            "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Minima natus ut culpa voluptate, unde sunt, provident iure sed ipsa, vel officia dolorum porro, ducimus praesentium voluptatibus dolores quia minus obcaecati! Molestiae quisquam magni possimus vitae harum nam corrupti odio unde rerum eaque dignissimos, nesciunt architecto expedita ullam quis delectus id!",
+            "image" :"./images/tilbage-til-30erne_198511.jpg"
         },
         {
             "Genre": "it",
             "name": "Bliv Sikker På Nettet",
-            "Forfatter": "Lars Laursen",
+            "Auther": "Lars Laursen",
             "Price": "259,95 kr",
-            "description": "Lorem ipsum dolor sit amet"
+            "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Minima natus ut culpa voluptate, unde sunt, provident iure sed ipsa, vel officia dolorum porro, ducimus praesentium voluptatibus dolores quia minus obcaecati! Molestiae quisquam magni possimus vitae harum nam corrupti odio unde rerum eaque dignissimos, nesciunt architecto expedita ullam quis delectus id!",
+            "image" :"./images/bliv-sikker-paa-nettet_424651.jpg"
         },
         {
             "Genre": "it",
             "name": "Bogen Om Nemid",
-            "Forfatter": "Lars Laursen",
+            "Auther": "Lars Laursen",
             "Price": "259,95 kr",
-            "description": "Lorem ipsum dolor sit amet"
+            "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Minima natus ut culpa voluptate, unde sunt, provident iure sed ipsa, vel officia dolorum porro, ducimus praesentium voluptatibus dolores quia minus obcaecati! Molestiae quisquam magni possimus vitae harum nam corrupti odio unde rerum eaque dignissimos, nesciunt architecto expedita ullam quis delectus id!",
+            "image" :"./images/bogen-om-nemid_280931.jpg"
         },
         {
             "Genre": "it",
             "name": "Bogen Om C# 8.0 -",
-            "Forfatter": "Michell Cronberg",
+            "Auther": "Michell Cronberg",
             "Price": "229,95 kr",
-            "description": "Lorem ipsum dolor sit amet"
+            "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Minima natus ut culpa voluptate, unde sunt, provident iure sed ipsa, vel officia dolorum porro, ducimus praesentium voluptatibus dolores quia minus obcaecati! Molestiae quisquam magni possimus vitae harum nam corrupti odio unde rerum eaque dignissimos, nesciunt architecto expedita ullam quis delectus id!",
+            "image" :"./images/bogen-om-c-80_498814.jpg"
         },
         {
             "Genre": "it",
             "name": "Bogen Om Asp.Net 4.0 Web Forms",
-            "Forfatter": "Michell Cronberg",
+            "Auther": "Michell Cronberg",
             "Price": "269,95 kr",
-            "description": "Lorem ipsum dolor sit amet"
+            "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Minima natus ut culpa voluptate, unde sunt, provident iure sed ipsa, vel officia dolorum porro, ducimus praesentium voluptatibus dolores quia minus obcaecati! Molestiae quisquam magni possimus vitae harum nam corrupti odio unde rerum eaque dignissimos, nesciunt architecto expedita ullam quis delectus id!",
+            "image": "./images/bogen-om-aspnet-40-web-forms_179662.jpg"
         },
         {
             "Genre": "it",
             "name": "Godt I Gang Med Windows 10 - 2019",
-            "Forfatter": "Jens Koldbæk",
+            "Auther": "Jens Koldbæk",
             "Price": "109,95 kr",
-            "description": "Lorem ipsum dolor sit amet"
+            "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Minima natus ut culpa voluptate, unde sunt, provident iure sed ipsa, vel officia dolorum porro, ducimus praesentium voluptatibus dolores quia minus obcaecati! Molestiae quisquam magni possimus vitae harum nam corrupti odio unde rerum eaque dignissimos, nesciunt architecto expedita ullam quis delectus id!",
+            "image" :"./images/godt-i-gang-med-windows-10-2019_444890.jpg"
         },
         {
             "Genre": "it",
             "name": "Webdesign - Illustreret Håndbog",
-            "Forfatter": "Jørgen Farum Jensen",
+            "Auther": "Jørgen Farum Jensen",
             "Price": "329,95 kr",
-            "description": "Lorem ipsum dolor sit amet"
+            "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Minima natus ut culpa voluptate, unde sunt, provident iure sed ipsa, vel officia dolorum porro, ducimus praesentium voluptatibus dolores quia minus obcaecati! Molestiae quisquam magni possimus vitae harum nam corrupti odio unde rerum eaque dignissimos, nesciunt architecto expedita ullam quis delectus id!",
+            "image" :"./images/webdesign-illustreret-haandbog_147541.jpg"
         },
         {
             "Genre": "it",
             "name": "Hjemmesiden I Html Og Css",
-            "Forfatter": "Emil M Frandsen",
+            "Auther": "Emil M Frandsen",
             "Price": "289,95 kr",
-            "description": "Lorem ipsum dolor sit amet"
+            "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Minima natus ut culpa voluptate, unde sunt, provident iure sed ipsa, vel officia dolorum porro, ducimus praesentium voluptatibus dolores quia minus obcaecati! Molestiae quisquam magni possimus vitae harum nam corrupti odio unde rerum eaque dignissimos, nesciunt architecto expedita ullam quis delectus id!",
+            "image" :"./images/hjemmesiden-i-html-og-css_451662.jpg"
         }
     ]
 }

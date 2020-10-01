@@ -1,16 +1,112 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Books list</title>
     <link rel="stylesheet" href="style.css">
-</head>
-<body>
-    
-    
+    <script src="https://kit.fontawesome.com/9fb57291c6.js" crossorigin="anonymous"></script>
 
+</head>
+
+<body>
+
+    <header>
+        <nav>
+            <ul class="nav__ul">
+                <li class="nav__ul--list nav__logoImage"><img src="./images/logo.jpg"></li>
+                <li class="nav__ul--list"><a href="#"><i class="fas fa-phone"></a></i></li>
+                <li class="nav__ul--list"><a href="#"><i class="fas fa-sms"></i></a></li>
+                <li class="nav__ul--list"><a href="#"><i class="fas fa-shopping-basket"></i></a></li>
+            </ul>
+        </nav>
+    </header>
+    <main class="main">
+
+        <aside class="main__aside">
+            <input type="search" placeholder="search.." class="aside__searchInput">
+
+            <form action="" class="aside__form" novalidate>
+                <div class="formContainer">
+                    <fieldset>
+                        <legend>tilpas udvalg</legend>
+                        <label for="pris">pris:</label>
+                        <select name="pris" id="pris">
+                            <option value="allPris">all</option>
+                            <option value="10,299">10-299dkk</option>
+                            <option value="300,700">300-699</option>
+                            <option value="700,1200">700-1199</option>
+                        </select>
+                        <br>
+                        <label for="chooseGenre">valg genre:</label>
+                        <select name="genre" id="genre">
+                            <option value="it">all</option>
+                            <option value="it">it</option>
+                            <option value="artandculture">Kunst Og Kultur</option>
+                            <option value="societyandhistory">Samfund Og Historie</option>
+                            <option value="fiction">Skønlitteratur</option>
+                        </select>
+
+                        <hr>
+                        <button type="button">valg</button>
+                    </fieldset>
+
+                </div>
+
+            </form>
+        </aside>
+        <div class="main__maincontainer">
+
+        </div>
+    </main>
+    <template id="bookTamplate">
+        <div class="maincontainer__book">
+            <img class="maincontainer__bookImg" src="./images/voksnes-svigefulde-liv_474028.jpg"
+                alt="book image">
+            <div class="maincontainer__text">
+                <h3 class="bookTitle"></h3>
+                <h3 class="auther"></h3>
+                <p class="bookDiscription"></p>
+            </div>
+            <div class="maincontainer__price">
+                <span class="price"></span> <hr>
+                <button class="moveToBasket" type="button">læg i kurv</button>
+            </div>
+        </div>
+        <!--maincontainer__book-->
+    </template>
+
+
+    <footer class="footer_frontpage">
+        <address class="footer_frontpage_address">
+            lorem-lorem2 <br>
+            lorem 2 Lorem ipsum dolor sit. <br>
+            Lorem ipsum dolor sit.
+        </address>
+
+        <div class="footer_frontpage_refunds_privacy">
+            <a href="#">Returns & Refunds</a>
+            <a href="#">| Privacy Policy</a>
+        </div>
+        <div class="footer_frontpage_payment">
+            <i class="fab fa-cc-visa"></i>
+            <i class="fab fa-apple-pay"></i>
+            <i class="fab fa-cc-paypal"></i>
+            <i class="fab fa-cc-jcb"></i>
+            <i class="fab fa-amazon-pay"></i>
+            <i class="fab fa-cc-mastercard"></i>
+
+        </div>
+        <div class="footer_frontpage_SoMe">
+            <a href="facebook.com" class="facebook"></a><i class="fab fa-facebook-f"></i></a>
+            <a href="youtube.com"><i class="fab fa-youtube"></i></a>
+            <a href="twitter.com"><i class="fab fa-twitter"></i></a>
+            <a href="instagram.com"><i class="fab fa-instagram"></i></a>
+        </div>
+    </footer>
 
     <script src="script.js" type="module"></script>
 </body>
+
 </html>
