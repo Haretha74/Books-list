@@ -2,11 +2,14 @@
     margin: 0;
     font-family: cursive;
     text-transform: capitalize;
+    /* box-sizing: border-box; */
+    outline: none; /*to abort some elements border when click on like search input and search icon*/
     
 }
 body {
     background-image: url("./images/background.jpg");
     background-size: contain;
+    /* background-repeat: no-repeat; */
 }
 
 .nav__ul {
@@ -33,7 +36,8 @@ body {
     display: grid;
     grid-template-areas: "search bookImg containerText containerPrice"
                           "aside bookImg containerText containerPrice"
-                          "aside bookImg containerText containerPrice";
+                          "aside bookImg containerText containerPrice"
+                          "footer footer footer footer";
     grid-column-gap: 1vw;
 }
 .main__aside {
@@ -49,7 +53,29 @@ body {
     border-style: none;
     color: rgb(210, 66, 30);
     font-size: 18px;
+    position: relative;
 }
+.aside__searchButton {
+    width: 3em;
+    border: none;
+    position: absolute;
+    left: 15em;
+    background-color: white;
+    list-style-type: none;
+}
+.fa-search {
+    text-decoration: none;
+    font-size: 2em;
+    opacity: .5;
+    color: rgb(190, 232, 245);
+}
+.fa-search:hover {
+    color: tomato;
+
+}
+/* .aside__searchButton:active {
+    text-decoration: none;
+} */
 .aside__form {
     grid-area: aside;
     width: 100%;
@@ -105,7 +131,7 @@ body {
     grid-area: containerText;
 }
 .maincontainer__text h3 {
-    color: rgb(85,163,87);
+    color: rgb(56, 90, 58);
     text-shadow: 1px 1px 2px yellow;
 }
 .maincontainer__price {
@@ -115,7 +141,6 @@ body {
     text-align: center;
 }
 .price {
-    /* margin-bottom: 3vh; */
     color: rgb(85,163,87);
     font-size: 18px;
     font-weight: bold;
@@ -149,9 +174,9 @@ body {
     grid-template-columns: 3fr auto 6fr 3fr 1.7fr;
     grid-template-rows: 1fr;
     grid-gap: 2px;
-    background-color: #A39161;
+    background-color: #31302e;
     padding: 1vh .5vw;
-    /* margin-bottom: 0; */
+    grid-area: footer;
 }
 .footer_frontpage_payment i {
     color: white;
@@ -165,6 +190,7 @@ body {
     font-style: normal; /*default er italic på adress tag*/
     font-size: 0.6rem;
     font-weight: 700;
+    color: white;
 }
 .footer_frontpage_refunds_privacy {
     grid-area: 1 / 2 / 2 / 3;

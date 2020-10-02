@@ -1,6 +1,6 @@
-import priceFilter from './filter.js';
+import booksFilter from './filter.js';
 
-priceFilter();
+booksFilter();
 
 
 

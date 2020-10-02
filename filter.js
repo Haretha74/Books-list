@@ -1,5 +1,5 @@
 import getBooksData from './getData.js'
-function priceFilter() {
+function booksFilter() {
 
     getBooksData()
         .then(function(data) {
@@ -20,19 +20,18 @@ function priceFilter() {
                 }
                 
                 let container = document.querySelector(".main__maincontainer");
-                while(container.firstChild) {//fjerne alle chids i container
+                while(container.firstChild) {//fjerne alle childes i container
                     container.removeChild(container.lastChild);
                 }
 
 
                 (filteredBooks || data.books).forEach(function(book) { //løber i genem filteredbooks og printer den ud i skærmen
-                    // console.log(book.name)
+
                     let clone = document.querySelector("#bookTamplate").content.cloneNode(true);
                     clone.querySelector(".bookTitle").innerText = book.name;
                     clone.querySelector(".auther").innerText = book.Auther;
                     clone.querySelector(".bookDiscription").innerText = book.description;
                     clone.querySelector(".price").innerText = book.Price;
-        
         
                     clone.querySelector(".maincontainer__bookImg").src=book.image;
         
@@ -42,5 +41,5 @@ function priceFilter() {
         });
     
     }
-    export default priceFilter;
+    export default booksFilter;
  
